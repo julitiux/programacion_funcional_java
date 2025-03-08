@@ -1,2 +1,2 @@
 rootProject.name = 'programacion_funcional_java'
-include 'clase02:lab', 'clase03:labs', 'clase05:labs'
+include 'clase02:lab', 'clase03:labs', 'clase05:labs', 'clase06:labs'
